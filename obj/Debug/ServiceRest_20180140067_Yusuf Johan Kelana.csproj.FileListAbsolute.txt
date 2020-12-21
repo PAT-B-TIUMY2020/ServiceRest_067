@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.dll.config
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.dll
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.pdb
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\obj\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\obj\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\obj\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.dll
+D:\Visual Studio 2017\Projects\ServiceRest_20180140067_Yusuf Johan Kelana\obj\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.pdb
